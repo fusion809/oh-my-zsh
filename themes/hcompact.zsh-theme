@@ -1,0 +1,1 @@
+zsh-theme/hcompact/hcompact.zsh-theme

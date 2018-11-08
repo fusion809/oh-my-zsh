@@ -1,0 +1,1 @@
+zsh-theme/hfulldate/hfulldate.zsh-theme
